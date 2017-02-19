@@ -10,3 +10,8 @@ http://www.oracle.com/technetwork/server-storage/virtualbox/downloads/index.html
 
 ■開発者向けの事前構築済み仮想マシン　(Oracle VM Virtual Box用）
 http://www.oracle.com/technetwork/jp/community/developer-vm/index.html
+
+■導入した仮想環境
+DeveloperDaysVM2017-02-10_19.ova
+
+conn system/oracle
