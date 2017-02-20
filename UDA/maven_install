@@ -1,0 +1,18 @@
+## maven導入
+### 前提
+Mavenはjavaで動くので、javaが入ってない場合は導入します。
+
+OSXでbrewが使えるならば
+`$ brew install java`
+
+でよろしくやってくれます。
+
+### mavenのインストール
+こちらもBrewでやる場合は以下コマンドでよろしくインストールされます。
+
+`$ brew install maven`
+
+### mavenインストール後の確認
+以下コマンドで確認
+`$ mvn -v`
+
